@@ -17,11 +17,10 @@ The key goals of this project are:
 
 4. System Overview:
 The suggested system deals with the end-to-end interactions of banking operations such as:
+
 ● Customer registration and KYC identification.
 ● Real estate account creation and maintenance.
 ● Transaction recording and resolution of conflict.
 ● Role-based login and password protected authentication.
-
 ● Secure encryption of customer confidential data.
-
 ● Automatic auditing of all changes in the database.
